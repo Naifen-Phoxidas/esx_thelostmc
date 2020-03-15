@@ -10,4 +10,4 @@ Add the esx_thelostmc.sql file to the database.
 
 Add this to server.cfg => start esx_thelostmc
 
-Clean the cache and start the Server.
+Clean the cache and start the server.
